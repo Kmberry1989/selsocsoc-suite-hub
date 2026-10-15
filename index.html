@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Suite Hub</title>
 <meta name="theme-color" content="#2b348c">
-<meta name="description" content="Launcher for the Selfie Social Society editor suite.">
+<meta name="description" content="Launcher and installer for the Selfie Social Society editor suite.">
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
@@ -21,6 +21,26 @@
 </header>
 
 <main>
+  <section aria-label="Install">
+    <h2>Install</h2>
+    <p class="shelf-note">Browsers ask once per app. This walks you through all of them in one pass.</p>
+    <div class="install-actions">
+      <button id="install-hub-btn" class="primary hidden">Install Hub</button>
+      <button id="install-all-btn" class="primary">Install everything</button>
+    </div>
+    <div id="install-flow" class="install-flow hidden" aria-live="polite">
+      <p id="install-progress" class="status"></p>
+      <p id="install-current" class="install-current"></p>
+      <div class="install-actions">
+        <button id="install-open-btn" class="primary">Open app</button>
+        <button id="install-done-btn">Installed — next</button>
+        <button id="install-skip-btn" class="ghost">Skip</button>
+        <button id="install-cancel-btn" class="ghost">Stop</button>
+      </div>
+      <p id="install-hint" class="status"></p>
+    </div>
+  </section>
+
   <section aria-label="Editors">
     <h2>Editors</h2>
     <div id="launcher-grid" class="grid" role="list"></div>
