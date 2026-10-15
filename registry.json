@@ -1,67 +1,74 @@
 {
   "entries": [
     {
-      "icon": "🎮",
+      "icon": "\ud83c\udfae",
       "id": "game",
       "name": "Selfie Social Society",
       "purpose": "Play the game",
       "url": "https://selsocsoc.vercel.app"
     },
     {
-      "icon": "🎵",
+      "icon": "\ud83c\udfb5",
       "id": "audio-sampler",
       "name": "Audio Sampler",
       "purpose": "Make SFX & music",
       "url": "https://kmberry1989.github.io/selsocsoc-audio-sampler/"
     },
     {
-      "icon": "🗺️",
+      "icon": "\ud83d\uddfa\ufe0f",
       "id": "world-editor",
       "name": "World Editor",
       "purpose": "Build the world",
       "url": "https://kmberry1989.github.io/selsocsoc-world-editor/"
     },
     {
-      "icon": "💬",
+      "icon": "\ud83d\udcac",
       "id": "dialogue-scripter",
       "name": "Dialogue Scripter",
       "purpose": "Write NPC dialogue",
       "url": "https://kmberry1989.github.io/selsocsoc-dialogue-scripter/"
     },
     {
-      "icon": "👕",
+      "icon": "\ud83d\udc55",
       "id": "outfit-painter",
       "name": "Outfit Painter",
       "purpose": "Paint outfits",
       "url": "https://kmberry1989.github.io/selsocsoc-outfit-painter/"
     },
     {
-      "icon": "🧱",
+      "icon": "\ud83e\uddf1",
       "id": "object-creator",
       "name": "Object Creator",
       "purpose": "Build 3D props",
       "url": "https://kmberry1989.github.io/selsocsoc-object-creator/"
     },
     {
-      "icon": "🖼️",
+      "icon": "\ud83d\uddbc\ufe0f",
       "id": "render-studio",
       "name": "Render Studio",
       "purpose": "Render NPC portraits",
       "url": "https://kmberry1989.github.io/selsocsoc-render-studio/"
     },
     {
-      "icon": "🎬",
+      "icon": "\ud83c\udfac",
       "id": "cinematic-studio",
       "name": "Cinematic Studio",
       "purpose": "Direct cinematics",
       "url": "https://kmberry1989.github.io/selsocsoc-cinematic-studio/"
     },
     {
-      "icon": "👥",
+      "icon": "\ud83d\udc65",
       "id": "npc-showcase",
       "name": "NPC Showcase",
       "purpose": "Browse the NPC cast",
       "url": "https://selsocsoc-npc-showcase.vercel.app/"
+    },
+    {
+      "icon": "\ud83c\udfa9",
+      "id": "accessory-editor",
+      "name": "Accessory Editor",
+      "purpose": "Hats, held items & capes",
+      "url": "https://kmberry1989.github.io/selsocsoc-accessory-editor/"
     }
   ]
 }
