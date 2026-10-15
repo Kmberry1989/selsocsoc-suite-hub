@@ -1,67 +1,67 @@
 {
   "entries": [
     {
-      "icon": "\ud83c\udfae",
+      "icon": "🎮",
       "id": "game",
       "name": "Selfie Social Society",
       "purpose": "Play the game",
       "url": "https://selsocsoc.vercel.app"
     },
     {
-      "icon": "\ud83c\udfb5",
+      "icon": "🎵",
       "id": "audio-sampler",
       "name": "Audio Sampler",
       "purpose": "Make SFX & music",
       "url": "https://kmberry1989.github.io/selsocsoc-audio-sampler/"
     },
     {
-      "icon": "\ud83d\uddfa\ufe0f",
+      "icon": "🗺️",
       "id": "world-editor",
       "name": "World Editor",
       "purpose": "Build the world",
       "url": "https://kmberry1989.github.io/selsocsoc-world-editor/"
     },
     {
-      "icon": "\ud83d\udcac",
+      "icon": "💬",
       "id": "dialogue-scripter",
       "name": "Dialogue Scripter",
       "purpose": "Write NPC dialogue",
       "url": "https://kmberry1989.github.io/selsocsoc-dialogue-scripter/"
     },
     {
-      "icon": "\ud83d\udc55",
+      "icon": "👕",
       "id": "outfit-painter",
       "name": "Outfit Painter",
       "purpose": "Paint outfits",
       "url": "https://kmberry1989.github.io/selsocsoc-outfit-painter/"
     },
     {
-      "icon": "\ud83e\uddf1",
+      "icon": "🧱",
       "id": "object-creator",
       "name": "Object Creator",
       "purpose": "Build 3D props",
       "url": "https://kmberry1989.github.io/selsocsoc-object-creator/"
     },
     {
-      "icon": "\ud83d\uddbc\ufe0f",
+      "icon": "🖼️",
       "id": "render-studio",
       "name": "Render Studio",
       "purpose": "Render NPC portraits",
       "url": "https://kmberry1989.github.io/selsocsoc-render-studio/"
     },
     {
-      "icon": "\ud83c\udfac",
+      "icon": "🎬",
       "id": "cinematic-studio",
       "name": "Cinematic Studio",
       "purpose": "Direct cinematics",
       "url": "https://kmberry1989.github.io/selsocsoc-cinematic-studio/"
     },
     {
-      "icon": "\ud83d\udc65",
+      "icon": "👥",
       "id": "npc-showcase",
       "name": "NPC Showcase",
       "purpose": "Browse the NPC cast",
-      "url": null
+      "url": "https://selsocsoc-npc-showcase.vercel.app/"
     }
   ]
 }
