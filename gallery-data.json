@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 266,
+ "count": 270,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -25,6 +25,12 @@
    "name": "crop-carrot.webp",
    "category": "garden-art",
    "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-carrot.webp"
+  },
+  {
+   "path": "garden-art/crop-corn.webp",
+   "name": "crop-corn.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-corn.webp"
   },
   {
    "path": "garden-art/crop-pumpkin.webp",
@@ -103,6 +109,12 @@
    "name": "bubble-wand.webp",
    "category": "inventory",
    "url": "https://selsocsoc.vercel.app/assets/inventory/items/bubble-wand.webp"
+  },
+  {
+   "path": "inventory/items/cat-food-bowl.webp",
+   "name": "cat-food-bowl.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/cat-food-bowl.webp"
   },
   {
    "path": "inventory/items/cat-treat-tin.webp",
@@ -1477,6 +1489,18 @@
    "name": "material-shingles.webp",
    "category": "textures",
    "url": "https://selsocsoc.vercel.app/assets/textures/material-shingles.webp"
+  },
+  {
+   "path": "textures/material-tile.webp",
+   "name": "material-tile.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-tile.webp"
+  },
+  {
+   "path": "textures/material-tin.webp",
+   "name": "material-tin.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-tin.webp"
   },
   {
    "path": "textures/metal-brass-brushed.webp",
