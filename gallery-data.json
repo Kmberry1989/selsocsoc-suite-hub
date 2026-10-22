@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 254,
+ "count": 258,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -921,10 +921,34 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-signpost.png"
   },
   {
+   "path": "sprites/decor-spring-maypole.webp",
+   "name": "decor-spring-maypole.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-spring-maypole.webp"
+  },
+  {
+   "path": "sprites/decor-spring-petals.webp",
+   "name": "decor-spring-petals.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-spring-petals.webp"
+  },
+  {
+   "path": "sprites/decor-winter-icicles.webp",
+   "name": "decor-winter-icicles.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-icicles.webp"
+  },
+  {
    "path": "sprites/decor-winter-lights.webp",
    "name": "decor-winter-lights.webp",
    "category": "sprites",
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-lights.webp"
+  },
+  {
+   "path": "sprites/decor-winter-snow-tree.webp",
+   "name": "decor-winter-snow-tree.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-snow-tree.webp"
   },
   {
    "path": "sprites/decor-winter-snowman.webp",
