@@ -1,0 +1,1482 @@
+{
+ "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
+ "count": 246,
+ "items": [
+  {
+   "path": "fishing-art/shell-conch.webp",
+   "name": "shell-conch.webp",
+   "category": "fishing-art",
+   "url": "https://selsocsoc.vercel.app/assets/fishing-art/shell-conch.webp"
+  },
+  {
+   "path": "fishing-art/shell-scallop.webp",
+   "name": "shell-scallop.webp",
+   "category": "fishing-art",
+   "url": "https://selsocsoc.vercel.app/assets/fishing-art/shell-scallop.webp"
+  },
+  {
+   "path": "fishing-art/shell-spiral.webp",
+   "name": "shell-spiral.webp",
+   "category": "fishing-art",
+   "url": "https://selsocsoc.vercel.app/assets/fishing-art/shell-spiral.webp"
+  },
+  {
+   "path": "garden-art/crop-carrot.webp",
+   "name": "crop-carrot.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-carrot.webp"
+  },
+  {
+   "path": "garden-art/crop-pumpkin.webp",
+   "name": "crop-pumpkin.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-pumpkin.webp"
+  },
+  {
+   "path": "garden-art/crop-sunflower.webp",
+   "name": "crop-sunflower.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-sunflower.webp"
+  },
+  {
+   "path": "garden-art/crop-tomato.webp",
+   "name": "crop-tomato.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-tomato.webp"
+  },
+  {
+   "path": "garden-art/seed-packet-carrot.webp",
+   "name": "seed-packet-carrot.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/seed-packet-carrot.webp"
+  },
+  {
+   "path": "garden-art/seed-packet-sunflower.webp",
+   "name": "seed-packet-sunflower.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/seed-packet-sunflower.webp"
+  },
+  {
+   "path": "garden-art/seed-packet-tomato.webp",
+   "name": "seed-packet-tomato.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/seed-packet-tomato.webp"
+  },
+  {
+   "path": "garden-art/tool-garden-fork.webp",
+   "name": "tool-garden-fork.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-garden-fork.webp"
+  },
+  {
+   "path": "garden-art/tool-hand-trowel.webp",
+   "name": "tool-hand-trowel.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-hand-trowel.webp"
+  },
+  {
+   "path": "garden-art/tool-pruning-shears-coral.webp",
+   "name": "tool-pruning-shears-coral.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-pruning-shears-coral.webp"
+  },
+  {
+   "path": "garden-art/tool-watering-can-sage.webp",
+   "name": "tool-watering-can-sage.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-watering-can-sage.webp"
+  },
+  {
+   "path": "garden-art/tool-wheelbarrow-red.webp",
+   "name": "tool-wheelbarrow-red.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-wheelbarrow-red.webp"
+  },
+  {
+   "path": "inventory/items/barnabys-bargain-tag.webp",
+   "name": "barnabys-bargain-tag.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/barnabys-bargain-tag.webp"
+  },
+  {
+   "path": "inventory/items/bubble-wand.webp",
+   "name": "bubble-wand.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/bubble-wand.webp"
+  },
+  {
+   "path": "inventory/items/cat-treat-tin.webp",
+   "name": "cat-treat-tin.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/cat-treat-tin.webp"
+  },
+  {
+   "path": "inventory/items/dotties-streak-ribbon.webp",
+   "name": "dotties-streak-ribbon.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/dotties-streak-ribbon.webp"
+  },
+  {
+   "path": "inventory/items/gideons-guitar-pick.webp",
+   "name": "gideons-guitar-pick.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/gideons-guitar-pick.webp"
+  },
+  {
+   "path": "inventory/items/golden-dice.webp",
+   "name": "golden-dice.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/golden-dice.webp"
+  },
+  {
+   "path": "inventory/items/lucky-bobber.webp",
+   "name": "lucky-bobber.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/lucky-bobber.webp"
+  },
+  {
+   "path": "inventory/items/mayors-mini-top-hat.webp",
+   "name": "mayors-mini-top-hat.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/mayors-mini-top-hat.webp"
+  },
+  {
+   "path": "inventory/items/moonlight-lantern.webp",
+   "name": "moonlight-lantern.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/moonlight-lantern.webp"
+  },
+  {
+   "path": "inventory/items/mystery-left-boot.webp",
+   "name": "mystery-left-boot.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/mystery-left-boot.webp"
+  },
+  {
+   "path": "inventory/items/pips-parade-kazoo.webp",
+   "name": "pips-parade-kazoo.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/pips-parade-kazoo.webp"
+  },
+  {
+   "path": "inventory/items/snapshot-lens.webp",
+   "name": "snapshot-lens.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/snapshot-lens.webp"
+  },
+  {
+   "path": "inventory/items/starlight-crown.webp",
+   "name": "starlight-crown.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/starlight-crown.webp"
+  },
+  {
+   "path": "inventory/items/wishing-coin.webp",
+   "name": "wishing-coin.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/wishing-coin.webp"
+  },
+  {
+   "path": "menu-layout/cloud-varieties.webp",
+   "name": "cloud-varieties.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/cloud-varieties.webp"
+  },
+  {
+   "path": "menu-layout/dock-board-v4.webp",
+   "name": "dock-board-v4.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-board-v4.webp"
+  },
+  {
+   "path": "menu-layout/dock-board-v5.webp",
+   "name": "dock-board-v5.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-board-v5.webp"
+  },
+  {
+   "path": "menu-layout/dock-return-v4.webp",
+   "name": "dock-return-v4.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-return-v4.webp"
+  },
+  {
+   "path": "menu-layout/dock-solo-v4.webp",
+   "name": "dock-solo-v4.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-solo-v4.webp"
+  },
+  {
+   "path": "menu-layout/dock-solo-v5.webp",
+   "name": "dock-solo-v5.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-solo-v5.webp"
+  },
+  {
+   "path": "menu-layout/dock-together-v4.webp",
+   "name": "dock-together-v4.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-together-v4.webp"
+  },
+  {
+   "path": "menu-layout/dock-together-v5.webp",
+   "name": "dock-together-v5.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-together-v5.webp"
+  },
+  {
+   "path": "menu-layout/dock-town-v4.webp",
+   "name": "dock-town-v4.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/dock-town-v4.webp"
+  },
+  {
+   "path": "menu-layout/logo-v2.png",
+   "name": "logo-v2.png",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/logo-v2.png"
+  },
+  {
+   "path": "menu-layout/logo-v3.png",
+   "name": "logo-v3.png",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/logo-v3.png"
+  },
+  {
+   "path": "menu-layout/menu-art-direction.webp",
+   "name": "menu-art-direction.webp",
+   "category": "menu-layout",
+   "url": "https://selsocsoc.vercel.app/assets/menu-layout/menu-art-direction.webp"
+  },
+  {
+   "path": "menu-wallpaper/menu.png",
+   "name": "menu.png",
+   "category": "menu-wallpaper",
+   "url": "https://selsocsoc.vercel.app/assets/menu-wallpaper/menu.png"
+  },
+  {
+   "path": "npc-faces/npc-agnes-alley-face-v2.png",
+   "name": "npc-agnes-alley-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-agnes-alley-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-agnes-alley-face.png",
+   "name": "npc-agnes-alley-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-agnes-alley-face.png"
+  },
+  {
+   "path": "npc-faces/npc-barnaby-bargain-face-v2.png",
+   "name": "npc-barnaby-bargain-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-barnaby-bargain-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-barnaby-bargain-face.png",
+   "name": "npc-barnaby-bargain-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-barnaby-bargain-face.png"
+  },
+  {
+   "path": "npc-faces/npc-bobby-gill-face-v2.png",
+   "name": "npc-bobby-gill-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-bobby-gill-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-bobby-gill-face.png",
+   "name": "npc-bobby-gill-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-bobby-gill-face.png"
+  },
+  {
+   "path": "npc-faces/npc-chip-chance-face-v2.png",
+   "name": "npc-chip-chance-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-chip-chance-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-chip-chance-face.png",
+   "name": "npc-chip-chance-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-chip-chance-face.png"
+  },
+  {
+   "path": "npc-faces/npc-dottie-daly-face-v2.png",
+   "name": "npc-dottie-daly-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-dottie-daly-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-dottie-daly-face.png",
+   "name": "npc-dottie-daly-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-dottie-daly-face.png"
+  },
+  {
+   "path": "npc-faces/npc-fern-bramble-face-v2.png",
+   "name": "npc-fern-bramble-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-fern-bramble-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-fern-bramble-face.png",
+   "name": "npc-fern-bramble-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-fern-bramble-face.png"
+  },
+  {
+   "path": "npc-faces/npc-gideon-face-v2.png",
+   "name": "npc-gideon-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-gideon-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-gideon-face.png",
+   "name": "npc-gideon-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-gideon-face.png"
+  },
+  {
+   "path": "npc-faces/npc-lyla-lens-face-v2.png",
+   "name": "npc-lyla-lens-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-lyla-lens-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-lyla-lens-face.png",
+   "name": "npc-lyla-lens-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-lyla-lens-face.png"
+  },
+  {
+   "path": "npc-faces/npc-mayor-mayor-face-v2.png",
+   "name": "npc-mayor-mayor-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-mayor-mayor-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-mayor-mayor-face.png",
+   "name": "npc-mayor-mayor-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-mayor-mayor-face.png"
+  },
+  {
+   "path": "npc-faces/npc-mr-buck-coinsworth-face-v2.png",
+   "name": "npc-mr-buck-coinsworth-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-mr-buck-coinsworth-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-mr-buck-coinsworth-face.png",
+   "name": "npc-mr-buck-coinsworth-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-mr-buck-coinsworth-face.png"
+  },
+  {
+   "path": "npc-faces/npc-peggy-plank-face-v2.png",
+   "name": "npc-peggy-plank-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-peggy-plank-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-peggy-plank-face.png",
+   "name": "npc-peggy-plank-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-peggy-plank-face.png"
+  },
+  {
+   "path": "npc-faces/npc-pip-parade-face-v2.png",
+   "name": "npc-pip-parade-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-pip-parade-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-pip-parade-face.png",
+   "name": "npc-pip-parade-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-pip-parade-face.png"
+  },
+  {
+   "path": "npc-faces/npc-stanley-stamp-face-v2.png",
+   "name": "npc-stanley-stamp-face-v2.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-stanley-stamp-face-v2.png"
+  },
+  {
+   "path": "npc-faces/npc-stanley-stamp-face.png",
+   "name": "npc-stanley-stamp-face.png",
+   "category": "npc-faces",
+   "url": "https://selsocsoc.vercel.app/assets/npc-faces/npc-stanley-stamp-face.png"
+  },
+  {
+   "path": "npc-outfits/npc-agnes-alley-outfit-v2.png",
+   "name": "npc-agnes-alley-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-agnes-alley-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-agnes-alley-outfit.png",
+   "name": "npc-agnes-alley-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-agnes-alley-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-barnaby-bargain-outfit-v2.png",
+   "name": "npc-barnaby-bargain-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-barnaby-bargain-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-barnaby-bargain-outfit.png",
+   "name": "npc-barnaby-bargain-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-barnaby-bargain-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-bobby-gill-outfit-v2.png",
+   "name": "npc-bobby-gill-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-bobby-gill-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-bobby-gill-outfit.png",
+   "name": "npc-bobby-gill-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-bobby-gill-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-chip-chance-outfit-v2.png",
+   "name": "npc-chip-chance-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-chip-chance-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-chip-chance-outfit.png",
+   "name": "npc-chip-chance-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-chip-chance-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-dottie-daly-outfit-v2.png",
+   "name": "npc-dottie-daly-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-dottie-daly-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-dottie-daly-outfit.png",
+   "name": "npc-dottie-daly-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-dottie-daly-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-fern-bramble-outfit-v2.png",
+   "name": "npc-fern-bramble-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-fern-bramble-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-fern-bramble-outfit.png",
+   "name": "npc-fern-bramble-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-fern-bramble-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-gideon-outfit-v2.png",
+   "name": "npc-gideon-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-gideon-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-gideon-outfit.png",
+   "name": "npc-gideon-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-gideon-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-lyla-lens-outfit-v2.png",
+   "name": "npc-lyla-lens-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-lyla-lens-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-lyla-lens-outfit.png",
+   "name": "npc-lyla-lens-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-lyla-lens-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-mayor-mayor-outfit-v2.png",
+   "name": "npc-mayor-mayor-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-mayor-mayor-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-mayor-mayor-outfit.png",
+   "name": "npc-mayor-mayor-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-mayor-mayor-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-mr-buck-coinsworth-outfit-v2.png",
+   "name": "npc-mr-buck-coinsworth-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-mr-buck-coinsworth-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-mr-buck-coinsworth-outfit.png",
+   "name": "npc-mr-buck-coinsworth-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-mr-buck-coinsworth-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-peggy-plank-outfit-v2.png",
+   "name": "npc-peggy-plank-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-peggy-plank-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-peggy-plank-outfit.png",
+   "name": "npc-peggy-plank-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-peggy-plank-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-pip-parade-outfit-v2.png",
+   "name": "npc-pip-parade-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-pip-parade-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-pip-parade-outfit.png",
+   "name": "npc-pip-parade-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-pip-parade-outfit.png"
+  },
+  {
+   "path": "npc-outfits/npc-stanley-stamp-outfit-v2.png",
+   "name": "npc-stanley-stamp-outfit-v2.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-stanley-stamp-outfit-v2.png"
+  },
+  {
+   "path": "npc-outfits/npc-stanley-stamp-outfit.png",
+   "name": "npc-stanley-stamp-outfit.png",
+   "category": "npc-outfits",
+   "url": "https://selsocsoc.vercel.app/assets/npc-outfits/npc-stanley-stamp-outfit.png"
+  },
+  {
+   "path": "outfit-textures/outfit-blossom-tunic-v2.png",
+   "name": "outfit-blossom-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-blossom-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-bonfire-wrap-v2.png",
+   "name": "outfit-bonfire-wrap-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-bonfire-wrap-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-button-up-chinos-v2.png",
+   "name": "outfit-button-up-chinos-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-button-up-chinos-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-cider-mill-tabard-v2.png",
+   "name": "outfit-cider-mill-tabard-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-cider-mill-tabard-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-classic-tee-jeans-v2.png",
+   "name": "outfit-classic-tee-jeans-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-classic-tee-jeans-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-dewdrop-wrap-v2.png",
+   "name": "outfit-dewdrop-wrap-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-dewdrop-wrap-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-dusk-wrap-v2.png",
+   "name": "outfit-dusk-wrap-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-dusk-wrap-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-ember-tabard-v2.png",
+   "name": "outfit-ember-tabard-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-ember-tabard-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-evergreen-tabard-v2.png",
+   "name": "outfit-evergreen-tabard-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-evergreen-tabard-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-firefly-cape-v2.png",
+   "name": "outfit-firefly-cape-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-firefly-cape-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-flannel-jeans-v2.png",
+   "name": "outfit-flannel-jeans-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-flannel-jeans-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-frostlight-tunic-v2.png",
+   "name": "outfit-frostlight-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-frostlight-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-graphic-tee-cargos-v2.png",
+   "name": "outfit-graphic-tee-cargos-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-graphic-tee-cargos-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-harvest-tunic-v2.png",
+   "name": "outfit-harvest-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-harvest-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-hearthside-wrap-v2.png",
+   "name": "outfit-hearthside-wrap-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-hearthside-wrap-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-hoodie-jeans-v2.png",
+   "name": "outfit-hoodie-jeans-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-hoodie-jeans-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-hoops-jersey-shorts-v2.png",
+   "name": "outfit-hoops-jersey-shorts-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-hoops-jersey-shorts-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-lakeside-wrap-v2.png",
+   "name": "outfit-lakeside-wrap-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-lakeside-wrap-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-meadow-poncho-v2.png",
+   "name": "outfit-meadow-poncho-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-meadow-poncho-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-plaid-flannel-corduroys-v2.png",
+   "name": "outfit-plaid-flannel-corduroys-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-plaid-flannel-corduroys-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-pumpkin-patch-poncho-v2.png",
+   "name": "outfit-pumpkin-patch-poncho-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-pumpkin-patch-poncho-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-raindrop-cape-v2.png",
+   "name": "outfit-raindrop-cape-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-raindrop-cape-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-royal-tabard-v2.png",
+   "name": "outfit-royal-tabard-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-royal-tabard-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-seedling-poncho-v2.png",
+   "name": "outfit-seedling-poncho-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-seedling-poncho-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-snowfall-cape-v2.png",
+   "name": "outfit-snowfall-cape-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-snowfall-cape-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-starlight-cape-v2.png",
+   "name": "outfit-starlight-cape-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-starlight-cape-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-striped-tee-khakis-v2.png",
+   "name": "outfit-striped-tee-khakis-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-striped-tee-khakis-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-summerberry-tunic-v2.png",
+   "name": "outfit-summerberry-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-summerberry-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-sunflower-tabard-v2.png",
+   "name": "outfit-sunflower-tabard-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-sunflower-tabard-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-sunrise-poncho-v2.png",
+   "name": "outfit-sunrise-poncho-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-sunrise-poncho-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-tidepool-tunic-v2.png",
+   "name": "outfit-tidepool-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-tidepool-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/outfit-woodland-cape-v2.png",
+   "name": "outfit-woodland-cape-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/outfit-woodland-cape-v2.png"
+  },
+  {
+   "path": "outfit-textures/painted-pastel-tunic-v2.png",
+   "name": "painted-pastel-tunic-v2.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/painted-pastel-tunic-v2.png"
+  },
+  {
+   "path": "outfit-textures/peg-body-uv-template.png",
+   "name": "peg-body-uv-template.png",
+   "category": "outfit-textures",
+   "url": "https://selsocsoc.vercel.app/assets/outfit-textures/peg-body-uv-template.png"
+  },
+  {
+   "path": "painting-art/artist-palette.webp",
+   "name": "artist-palette.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/artist-palette.webp"
+  },
+  {
+   "path": "painting-art/paint-bucket-rainbow-no-top-handle.webp",
+   "name": "paint-bucket-rainbow-no-top-handle.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/paint-bucket-rainbow-no-top-handle.webp"
+  },
+  {
+   "path": "painting-art/paint-bucket-rainbow.webp",
+   "name": "paint-bucket-rainbow.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/paint-bucket-rainbow.webp"
+  },
+  {
+   "path": "painting-art/paint-bucket-teal.webp",
+   "name": "paint-bucket-teal.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/paint-bucket-teal.webp"
+  },
+  {
+   "path": "painting-art/paint-roller-yellow.webp",
+   "name": "paint-roller-yellow.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/paint-roller-yellow.webp"
+  },
+  {
+   "path": "painting-art/paintbrush-rainbow.webp",
+   "name": "paintbrush-rainbow.webp",
+   "category": "painting-art",
+   "url": "https://selsocsoc.vercel.app/assets/painting-art/paintbrush-rainbow.webp"
+  },
+  {
+   "path": "sprites/bush-1.png",
+   "name": "bush-1.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/bush-1.png"
+  },
+  {
+   "path": "sprites/bush-2.png",
+   "name": "bush-2.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/bush-2.png"
+  },
+  {
+   "path": "sprites/bush-3.png",
+   "name": "bush-3.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/bush-3.png"
+  },
+  {
+   "path": "sprites/bush-4.png",
+   "name": "bush-4.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/bush-4.png"
+  },
+  {
+   "path": "sprites/decor-birdhouse.png",
+   "name": "decor-birdhouse.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-birdhouse.png"
+  },
+  {
+   "path": "sprites/decor-cairn.png",
+   "name": "decor-cairn.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-cairn.png"
+  },
+  {
+   "path": "sprites/decor-halloween-bunting.png",
+   "name": "decor-halloween-bunting.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-bunting.png"
+  },
+  {
+   "path": "sprites/decor-halloween-jack-o-lantern.png",
+   "name": "decor-halloween-jack-o-lantern.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-jack-o-lantern.png"
+  },
+  {
+   "path": "sprites/decor-halloween-scarecrow.png",
+   "name": "decor-halloween-scarecrow.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-scarecrow.png"
+  },
+  {
+   "path": "sprites/decor-halloween-spooky-tree.png",
+   "name": "decor-halloween-spooky-tree.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-spooky-tree.png"
+  },
+  {
+   "path": "sprites/decor-lantern.png",
+   "name": "decor-lantern.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-lantern.png"
+  },
+  {
+   "path": "sprites/decor-mushrooms.png",
+   "name": "decor-mushrooms.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-mushrooms.png"
+  },
+  {
+   "path": "sprites/decor-reeds.png",
+   "name": "decor-reeds.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-reeds.png"
+  },
+  {
+   "path": "sprites/decor-signpost.png",
+   "name": "decor-signpost.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-signpost.png"
+  },
+  {
+   "path": "sprites/flower-bouquet-1.png",
+   "name": "flower-bouquet-1.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-bouquet-1.png"
+  },
+  {
+   "path": "sprites/flower-bouquet-2.png",
+   "name": "flower-bouquet-2.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-bouquet-2.png"
+  },
+  {
+   "path": "sprites/flower-bouquet-3.png",
+   "name": "flower-bouquet-3.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-bouquet-3.png"
+  },
+  {
+   "path": "sprites/flower-bouquet-4.png",
+   "name": "flower-bouquet-4.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-bouquet-4.png"
+  },
+  {
+   "path": "sprites/flower-bouquet-5.png",
+   "name": "flower-bouquet-5.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-bouquet-5.png"
+  },
+  {
+   "path": "sprites/flower-branch-1.png",
+   "name": "flower-branch-1.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-1.png"
+  },
+  {
+   "path": "sprites/flower-branch-2.png",
+   "name": "flower-branch-2.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-2.png"
+  },
+  {
+   "path": "sprites/flower-branch-3.png",
+   "name": "flower-branch-3.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-3.png"
+  },
+  {
+   "path": "sprites/flower-branch-4.png",
+   "name": "flower-branch-4.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-4.png"
+  },
+  {
+   "path": "sprites/flower-branch-5.png",
+   "name": "flower-branch-5.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-5.png"
+  },
+  {
+   "path": "sprites/flower-branch-6.png",
+   "name": "flower-branch-6.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-branch-6.png"
+  },
+  {
+   "path": "sprites/flower-mixed-1.png",
+   "name": "flower-mixed-1.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-mixed-1.png"
+  },
+  {
+   "path": "sprites/flower-mixed-2.png",
+   "name": "flower-mixed-2.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-mixed-2.png"
+  },
+  {
+   "path": "sprites/flower-mixed-3.png",
+   "name": "flower-mixed-3.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-mixed-3.png"
+  },
+  {
+   "path": "sprites/flower-mixed-4.png",
+   "name": "flower-mixed-4.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-mixed-4.png"
+  },
+  {
+   "path": "sprites/flower-mixed-5.png",
+   "name": "flower-mixed-5.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/flower-mixed-5.png"
+  },
+  {
+   "path": "sprites/grass-tuft-1.webp",
+   "name": "grass-tuft-1.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/grass-tuft-1.webp"
+  },
+  {
+   "path": "sprites/parachutist-1.png",
+   "name": "parachutist-1.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/parachutist-1.png"
+  },
+  {
+   "path": "sprites/parachutist-2.png",
+   "name": "parachutist-2.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/parachutist-2.png"
+  },
+  {
+   "path": "sprites/parachutist-3.png",
+   "name": "parachutist-3.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/parachutist-3.png"
+  },
+  {
+   "path": "sprites/parachutist-4.png",
+   "name": "parachutist-4.png",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/parachutist-4.png"
+  },
+  {
+   "path": "sprites/prop-fence-garden-lattice.webp",
+   "name": "prop-fence-garden-lattice.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-fence-garden-lattice.webp"
+  },
+  {
+   "path": "sprites/prop-fence-rustic-split-rail.webp",
+   "name": "prop-fence-rustic-split-rail.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-fence-rustic-split-rail.webp"
+  },
+  {
+   "path": "sprites/prop-fence-white-picket-segment.webp",
+   "name": "prop-fence-white-picket-segment.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-fence-white-picket-segment.webp"
+  },
+  {
+   "path": "sprites/prop-plant-fern.webp",
+   "name": "prop-plant-fern.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-plant-fern.webp"
+  },
+  {
+   "path": "sprites/prop-plant-monstera.webp",
+   "name": "prop-plant-monstera.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-plant-monstera.webp"
+  },
+  {
+   "path": "sprites/prop-plant-snake-plant.webp",
+   "name": "prop-plant-snake-plant.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-plant-snake-plant.webp"
+  },
+  {
+   "path": "sprites/prop-rock-boulder.webp",
+   "name": "prop-rock-boulder.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-rock-boulder.webp"
+  },
+  {
+   "path": "sprites/prop-rock-pebbles.webp",
+   "name": "prop-rock-pebbles.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-rock-pebbles.webp"
+  },
+  {
+   "path": "sprites/prop-rock-stepping-stone.webp",
+   "name": "prop-rock-stepping-stone.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/prop-rock-stepping-stone.webp"
+  },
+  {
+   "path": "sprites/tree-apple.webp",
+   "name": "tree-apple.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-apple.webp"
+  },
+  {
+   "path": "sprites/tree-birch.webp",
+   "name": "tree-birch.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-birch.webp"
+  },
+  {
+   "path": "sprites/tree-maple.webp",
+   "name": "tree-maple.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-maple.webp"
+  },
+  {
+   "path": "sprites/tree-oak.webp",
+   "name": "tree-oak.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-oak.webp"
+  },
+  {
+   "path": "sprites/tree-pine.webp",
+   "name": "tree-pine.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-pine.webp"
+  },
+  {
+   "path": "sprites/tree-willow.webp",
+   "name": "tree-willow.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/tree-willow.webp"
+  },
+  {
+   "path": "textures/carpet-braided-rag-coral-cream-teal.webp",
+   "name": "carpet-braided-rag-coral-cream-teal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/carpet-braided-rag-coral-cream-teal.webp"
+  },
+  {
+   "path": "textures/carpet-kilim-diamond-terracotta-navy.webp",
+   "name": "carpet-kilim-diamond-terracotta-navy.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/carpet-kilim-diamond-terracotta-navy.webp"
+  },
+  {
+   "path": "textures/carpet-shag-oatmeal.webp",
+   "name": "carpet-shag-oatmeal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/carpet-shag-oatmeal.webp"
+  },
+  {
+   "path": "textures/cloud-cluster.webp",
+   "name": "cloud-cluster.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/cloud-cluster.webp"
+  },
+  {
+   "path": "textures/cloud-puff.webp",
+   "name": "cloud-puff.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/cloud-puff.webp"
+  },
+  {
+   "path": "textures/cloud-strip.webp",
+   "name": "cloud-strip.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/cloud-strip.webp"
+  },
+  {
+   "path": "textures/cobblestone.webp",
+   "name": "cobblestone.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/cobblestone.webp"
+  },
+  {
+   "path": "textures/dirt-grass-edge.webp",
+   "name": "dirt-grass-edge.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/dirt-grass-edge.webp"
+  },
+  {
+   "path": "textures/dirt-path.webp",
+   "name": "dirt-path.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/dirt-path.webp"
+  },
+  {
+   "path": "textures/fabric-awning-coral.webp",
+   "name": "fabric-awning-coral.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-awning-coral.webp"
+  },
+  {
+   "path": "textures/fabric-burlap.webp",
+   "name": "fabric-burlap.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-burlap.webp"
+  },
+  {
+   "path": "textures/fabric-corduroy-mustard.webp",
+   "name": "fabric-corduroy-mustard.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-corduroy-mustard.webp"
+  },
+  {
+   "path": "textures/fabric-gingham-red.webp",
+   "name": "fabric-gingham-red.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-gingham-red.webp"
+  },
+  {
+   "path": "textures/fabric-linen-teal.webp",
+   "name": "fabric-linen-teal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-linen-teal.webp"
+  },
+  {
+   "path": "textures/fabric-plaid-navy.webp",
+   "name": "fabric-plaid-navy.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-plaid-navy.webp"
+  },
+  {
+   "path": "textures/fabric-plaid-red.webp",
+   "name": "fabric-plaid-red.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-plaid-red.webp"
+  },
+  {
+   "path": "textures/fabric-plaid-tartan.webp",
+   "name": "fabric-plaid-tartan.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-plaid-tartan.webp"
+  },
+  {
+   "path": "textures/fabric-rug-diamond.webp",
+   "name": "fabric-rug-diamond.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-rug-diamond.webp"
+  },
+  {
+   "path": "textures/fabric-rug-knit.webp",
+   "name": "fabric-rug-knit.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-rug-knit.webp"
+  },
+  {
+   "path": "textures/fabric-rug-royal.webp",
+   "name": "fabric-rug-royal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-rug-royal.webp"
+  },
+  {
+   "path": "textures/fabric-stars-blue.webp",
+   "name": "fabric-stars-blue.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-stars-blue.webp"
+  },
+  {
+   "path": "textures/fabric-wicker.webp",
+   "name": "fabric-wicker.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fabric-wicker.webp"
+  },
+  {
+   "path": "textures/flowers-bouquets.webp",
+   "name": "flowers-bouquets.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/flowers-bouquets.webp"
+  },
+  {
+   "path": "textures/flowers-branches.webp",
+   "name": "flowers-branches.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/flowers-branches.webp"
+  },
+  {
+   "path": "textures/flowers-daisies.webp",
+   "name": "flowers-daisies.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/flowers-daisies.webp"
+  },
+  {
+   "path": "textures/flowers-mixed.webp",
+   "name": "flowers-mixed.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/flowers-mixed.webp"
+  },
+  {
+   "path": "textures/foliage-bushes.webp",
+   "name": "foliage-bushes.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/foliage-bushes.webp"
+  },
+  {
+   "path": "textures/fx-grass-tufts.webp",
+   "name": "fx-grass-tufts.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fx-grass-tufts.webp"
+  },
+  {
+   "path": "textures/fx-lightning.webp",
+   "name": "fx-lightning.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fx-lightning.webp"
+  },
+  {
+   "path": "textures/fx-snowflake.webp",
+   "name": "fx-snowflake.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/fx-snowflake.webp"
+  },
+  {
+   "path": "textures/grass-clover.webp",
+   "name": "grass-clover.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/grass-clover.webp"
+  },
+  {
+   "path": "textures/grass-dry.webp",
+   "name": "grass-dry.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/grass-dry.webp"
+  },
+  {
+   "path": "textures/grass-lawn.webp",
+   "name": "grass-lawn.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/grass-lawn.webp"
+  },
+  {
+   "path": "textures/grass-meadow.webp",
+   "name": "grass-meadow.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/grass-meadow.webp"
+  },
+  {
+   "path": "textures/grass-snow.webp",
+   "name": "grass-snow.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/grass-snow.webp"
+  },
+  {
+   "path": "textures/hardwood-barnwood-gray.webp",
+   "name": "hardwood-barnwood-gray.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/hardwood-barnwood-gray.webp"
+  },
+  {
+   "path": "textures/hardwood-honey-oak.webp",
+   "name": "hardwood-honey-oak.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/hardwood-honey-oak.webp"
+  },
+  {
+   "path": "textures/hardwood-walnut.webp",
+   "name": "hardwood-walnut.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/hardwood-walnut.webp"
+  },
+  {
+   "path": "textures/material-bark.webp",
+   "name": "material-bark.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-bark.webp"
+  },
+  {
+   "path": "textures/material-charcoal.webp",
+   "name": "material-charcoal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-charcoal.webp"
+  },
+  {
+   "path": "textures/material-plaster.webp",
+   "name": "material-plaster.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-plaster.webp"
+  },
+  {
+   "path": "textures/material-shingles.webp",
+   "name": "material-shingles.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-shingles.webp"
+  },
+  {
+   "path": "textures/metal-brass-brushed.webp",
+   "name": "metal-brass-brushed.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/metal-brass-brushed.webp"
+  },
+  {
+   "path": "textures/metal-copper-patina.webp",
+   "name": "metal-copper-patina.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/metal-copper-patina.webp"
+  },
+  {
+   "path": "textures/pattern-snowflake.webp",
+   "name": "pattern-snowflake.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/pattern-snowflake.webp"
+  },
+  {
+   "path": "textures/rocks.webp",
+   "name": "rocks.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/rocks.webp"
+  },
+  {
+   "path": "textures/sand-ripples.webp",
+   "name": "sand-ripples.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/sand-ripples.webp"
+  },
+  {
+   "path": "textures/sand-shells.webp",
+   "name": "sand-shells.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/sand-shells.webp"
+  },
+  {
+   "path": "textures/sand-waves.webp",
+   "name": "sand-waves.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/sand-waves.webp"
+  },
+  {
+   "path": "textures/snow-sparkle.webp",
+   "name": "snow-sparkle.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/snow-sparkle.webp"
+  },
+  {
+   "path": "textures/snow-waves.webp",
+   "name": "snow-waves.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/snow-waves.webp"
+  },
+  {
+   "path": "textures/soil-garden.webp",
+   "name": "soil-garden.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/soil-garden.webp"
+  },
+  {
+   "path": "textures/stars-sparkle.webp",
+   "name": "stars-sparkle.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/stars-sparkle.webp"
+  },
+  {
+   "path": "textures/terrain-stone-path.webp",
+   "name": "terrain-stone-path.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/terrain-stone-path.webp"
+  },
+  {
+   "path": "textures/thatch.webp",
+   "name": "thatch.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/thatch.webp"
+  },
+  {
+   "path": "textures/wallpaper-daisies-sage-cream.webp",
+   "name": "wallpaper-daisies-sage-cream.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wallpaper-daisies-sage-cream.webp"
+  },
+  {
+   "path": "textures/wallpaper-pinstripe-gold-cream.webp",
+   "name": "wallpaper-pinstripe-gold-cream.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wallpaper-pinstripe-gold-cream.webp"
+  },
+  {
+   "path": "textures/water-pond-blue.webp",
+   "name": "water-pond-blue.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/water-pond-blue.webp"
+  },
+  {
+   "path": "textures/water-pond-teal.webp",
+   "name": "water-pond-teal.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/water-pond-teal.webp"
+  },
+  {
+   "path": "textures/wood-brick.webp",
+   "name": "wood-brick.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wood-brick.webp"
+  },
+  {
+   "path": "textures/wood-planks-vertical.webp",
+   "name": "wood-planks-vertical.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wood-planks-vertical.webp"
+  },
+  {
+   "path": "textures/wood-planks.webp",
+   "name": "wood-planks.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wood-planks.webp"
+  }
+ ]
+}

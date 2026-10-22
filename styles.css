@@ -63,6 +63,21 @@ h2 { font-size: 20px; margin: 22px 4px 10px; }
   color: #10132b;
   cursor: pointer;
 }
+.card a.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6px;
+  min-height: 48px;
+  min-width: 100px;
+  padding: 0 18px;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #10132b;
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
+}
 .card button.secondary {
   background: transparent;
   border: 2px solid var(--accent);

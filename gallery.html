@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Image Gallery — Suite Hub</title>
+<meta name="theme-color" content="#2b348c">
+<meta name="description" content="Gallery of the Selfie Social Society game image files.">
+<link rel="manifest" href="./manifest.webmanifest">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+<link rel="stylesheet" href="./styles.css">
+<style>
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 48px;
+  padding: 0 16px;
+  margin: 4px;
+  border: 2px solid var(--card-edge);
+  border-radius: 14px;
+  color: var(--text);
+  font-weight: 700;
+  text-decoration: none;
+}
+.gallery-search {
+  width: calc(100% - 8px);
+  min-height: 52px;
+  margin: 4px;
+  padding: 0 16px;
+  border: 2px solid var(--card-edge);
+  border-radius: 14px;
+  background: var(--card);
+  color: var(--text);
+  font-size: 18px;
+}
+.filter-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 12px 4px 4px;
+}
+.filter-row button {
+  min-height: 48px;
+  padding: 0 16px;
+  border: 2px solid var(--card-edge);
+  border-radius: 24px;
+  background: transparent;
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.filter-row button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #10132b;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+.gcard {
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: var(--radius);
+  padding: 12px 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+.gcard img {
+  width: 100%;
+  height: 140px;
+  object-fit: contain;
+  background: #0b0e22;
+  border-radius: 10px;
+  cursor: zoom-in;
+}
+.gcard .gname {
+  font-size: 13px;
+  font-weight: 700;
+  word-break: break-all;
+  min-height: 36px;
+}
+.gcard .gcat { color: var(--muted); font-size: 12px; }
+.gcard .gmiss {
+  height: 140px;
+  display: grid;
+  place-items: center;
+  background: #0b0e22;
+  border-radius: 10px;
+  color: var(--muted);
+  font-size: 13px;
+  padding: 8px;
+  word-break: break-all;
+}
+.gcard button, .lightbox button {
+  min-height: 44px;
+  border: 0;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #10132b;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.gcard button.copied, .lightbox button.copied { background: #9fe8b6; }
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+  background: #0b0e22e6;
+}
+.lightbox.hidden { display: none !important; }
+.lightbox .box {
+  width: min(640px, 100%);
+  max-height: calc(100dvh - 40px);
+  overflow: auto;
+  background: var(--card);
+  border: 1px solid var(--card-edge);
+  border-radius: var(--radius);
+  padding: 18px;
+  text-align: center;
+}
+.lightbox img {
+  width: 100%;
+  max-height: 60dvh;
+  object-fit: contain;
+  background: #0b0e22;
+  border-radius: 10px;
+}
+.lightbox .lname { font-weight: 700; word-break: break-all; margin: 12px 0 2px; }
+.lightbox .lpath { color: var(--muted); font-size: 13px; word-break: break-all; margin-bottom: 14px; }
+.lightbox .lactions { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.lightbox .lactions button.ghost {
+  background: transparent;
+  border: 2px solid var(--card-edge);
+  color: var(--muted);
+}
+@media (min-width: 640px) {
+  .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+}
+</style>
+</head>
+<body>
+<header class="hub-header">
+  <img class="hub-logo" src="./icons/icon-192.png" alt="" width="48" height="48">
+  <div>
+    <h1>Image Gallery</h1>
+    <p class="sub">Game art from Selfie Social Society</p>
+  </div>
+</header>
+
+<main>
+  <a class="back-link" href="./index.html">&#8592; Back to Hub</a>
+  <section aria-label="Gallery">
+    <input id="gallery-search" class="gallery-search" type="search" placeholder="Search filenames" aria-label="Search filenames" autocomplete="off">
+    <div id="filter-row" class="filter-row" role="group" aria-label="Filter by folder"></div>
+    <p id="gallery-count" class="status" role="status"></p>
+    <div id="gallery-grid" class="gallery-grid"></div>
+    <p id="gallery-status" class="status" role="status"></p>
+  </section>
+</main>
+
+<div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="Image preview">
+  <div class="box">
+    <img id="lb-img" alt="">
+    <p id="lb-name" class="lname"></p>
+    <p id="lb-path" class="lpath"></p>
+    <div class="lactions">
+      <button id="lb-copy" type="button">Copy URL</button>
+      <button id="lb-close" type="button" class="ghost">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var grid = document.getElementById("gallery-grid");
+  var countEl = document.getElementById("gallery-count");
+  var statusEl = document.getElementById("gallery-status");
+  var searchEl = document.getElementById("gallery-search");
+  var filterRow = document.getElementById("filter-row");
+  var lightbox = document.getElementById("lightbox");
+  var lbImg = document.getElementById("lb-img");
+  var lbName = document.getElementById("lb-name");
+  var lbPath = document.getElementById("lb-path");
+  var lbCopy = document.getElementById("lb-copy");
+  var items = [];
+  var activeCat = "all";
+  var query = "";
+  var lbUrl = "";
+
+  function copyUrl(url, btn) {
+    function done() {
+      var old = btn.textContent;
+      btn.textContent = "Copied";
+      btn.classList.add("copied");
+      setTimeout(function () { btn.textContent = old; btn.classList.remove("copied"); }, 1500);
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(done, function () { fallback(); });
+    } else { fallback(); }
+    function fallback() {
+      var ta = document.createElement("textarea");
+      ta.value = url;
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand("copy"); done(); } catch (e) {}
+      ta.remove();
+    }
+  }
+
+  function openLightbox(item) {
+    lbUrl = item.url;
+    lbImg.src = item.url;
+    lbImg.alt = item.name;
+    lbName.textContent = item.name;
+    lbPath.textContent = item.path;
+    lightbox.classList.remove("hidden");
+  }
+  function closeLightbox() {
+    lightbox.classList.add("hidden");
+    lbImg.removeAttribute("src");
+  }
+  document.getElementById("lb-close").addEventListener("click", closeLightbox);
+  lbCopy.addEventListener("click", function () { copyUrl(lbUrl, lbCopy); });
+  lightbox.addEventListener("click", function (e) { if (e.target === lightbox) closeLightbox(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") closeLightbox(); });
+
+  function renderFilters() {
+    var cats = {};
+    items.forEach(function (it) { cats[it.category] = (cats[it.category] || 0) + 1; });
+    var order = Object.keys(cats).sort();
+    var all = document.createElement("button");
+    all.type = "button";
+    all.textContent = "All (" + items.length + ")";
+    all.className = activeCat === "all" ? "active" : "";
+    all.addEventListener("click", function () { activeCat = "all"; renderFilters(); render(); });
+    filterRow.appendChild(all);
+    order.forEach(function (cat) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = cat + " (" + cats[cat] + ")";
+      b.className = activeCat === cat ? "active" : "";
+      b.addEventListener("click", function () { activeCat = cat; renderFilters(); render(); });
+      filterRow.appendChild(b);
+    });
+  }
+
+  function render() {
+    var q = query.trim().toLowerCase();
+    var shown = items.filter(function (it) {
+      if (activeCat !== "all" && it.category !== activeCat) return false;
+      if (q && it.name.toLowerCase().indexOf(q) === -1 && it.path.toLowerCase().indexOf(q) === -1) return false;
+      return true;
+    });
+    countEl.textContent = shown.length + " of " + items.length + " images";
+    grid.innerHTML = "";
+    if (!shown.length) {
+      statusEl.textContent = "No images match.";
+      return;
+    }
+    statusEl.textContent = "";
+    shown.forEach(function (it) {
+      var card = document.createElement("div");
+      card.className = "gcard";
+      var img = document.createElement("img");
+      img.src = it.url;
+      img.alt = it.name;
+      img.loading = "lazy";
+      img.addEventListener("click", function () { openLightbox(it); });
+      img.addEventListener("error", function () {
+        var miss = document.createElement("div");
+        miss.className = "gmiss";
+        miss.textContent = it.name;
+        img.replaceWith(miss);
+      });
+      var name = document.createElement("div");
+      name.className = "gname";
+      name.textContent = it.name;
+      var cat = document.createElement("div");
+      cat.className = "gcat";
+      cat.textContent = it.category;
+      var btn = document.createElement("button");
+      btn.type = "button";
+      btn.textContent = "Copy URL";
+      btn.addEventListener("click", function () { copyUrl(it.url, btn); });
+      card.appendChild(img);
+      card.appendChild(name);
+      card.appendChild(cat);
+      card.appendChild(btn);
+      grid.appendChild(card);
+    });
+  }
+
+  searchEl.addEventListener("input", function () { query = searchEl.value; render(); });
+
+  fetch("./gallery-data.json")
+    .then(function (r) { if (!r.ok) throw new Error("data " + r.status); return r.json(); })
+    .then(function (data) {
+      items = data.items || [];
+      filterRow.innerHTML = "";
+      renderFilters();
+      render();
+    })
+    .catch(function () {
+      statusEl.textContent = "Gallery data could not load.";
+    });
+})();
+</script>
+</body>
+</html>
