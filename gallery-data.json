@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 258,
+ "count": 262,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -843,6 +843,18 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-cairn.png"
   },
   {
+   "path": "sprites/decor-confetti.webp",
+   "name": "decor-confetti.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-confetti.webp"
+  },
+  {
+   "path": "sprites/decor-fireworks-burst.webp",
+   "name": "decor-fireworks-burst.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-fireworks-burst.webp"
+  },
+  {
    "path": "sprites/decor-halloween-archway.webp",
    "name": "decor-halloween-archway.webp",
    "category": "sprites",
@@ -919,6 +931,18 @@
    "name": "decor-signpost.png",
    "category": "sprites",
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-signpost.png"
+  },
+  {
+   "path": "sprites/decor-spring-cherry-tree.webp",
+   "name": "decor-spring-cherry-tree.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-spring-cherry-tree.webp"
+  },
+  {
+   "path": "sprites/decor-spring-garden-party.webp",
+   "name": "decor-spring-garden-party.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-spring-garden-party.webp"
   },
   {
    "path": "sprites/decor-spring-maypole.webp",
