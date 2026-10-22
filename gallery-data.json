@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 262,
+ "count": 266,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -837,6 +837,12 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-birdhouse.png"
   },
   {
+   "path": "sprites/decor-bush.webp",
+   "name": "decor-bush.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-bush.webp"
+  },
+  {
    "path": "sprites/decor-cairn.png",
    "name": "decor-cairn.png",
    "category": "sprites",
@@ -921,10 +927,28 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-mushrooms.png"
   },
   {
+   "path": "sprites/decor-palm-tree.webp",
+   "name": "decor-palm-tree.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-palm-tree.webp"
+  },
+  {
+   "path": "sprites/decor-potted-plant.webp",
+   "name": "decor-potted-plant.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-potted-plant.webp"
+  },
+  {
    "path": "sprites/decor-reeds.png",
    "name": "decor-reeds.png",
    "category": "sprites",
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-reeds.png"
+  },
+  {
+   "path": "sprites/decor-rocks.webp",
+   "name": "decor-rocks.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-rocks.webp"
   },
   {
    "path": "sprites/decor-signpost.png",
