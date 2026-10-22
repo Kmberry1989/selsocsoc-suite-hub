@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 250,
+ "count": 254,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -843,6 +843,12 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-cairn.png"
   },
   {
+   "path": "sprites/decor-halloween-archway.webp",
+   "name": "decor-halloween-archway.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-archway.webp"
+  },
+  {
    "path": "sprites/decor-halloween-bunting.webp",
    "name": "decor-halloween-bunting.webp",
    "category": "sprites",
@@ -913,6 +919,24 @@
    "name": "decor-signpost.png",
    "category": "sprites",
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-signpost.png"
+  },
+  {
+   "path": "sprites/decor-winter-lights.webp",
+   "name": "decor-winter-lights.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-lights.webp"
+  },
+  {
+   "path": "sprites/decor-winter-snowman.webp",
+   "name": "decor-winter-snowman.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-snowman.webp"
+  },
+  {
+   "path": "sprites/decor-winter-wreath.webp",
+   "name": "decor-winter-wreath.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-winter-wreath.webp"
   },
   {
    "path": "sprites/flower-bouquet-1.png",
