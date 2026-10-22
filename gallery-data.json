@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 246,
+ "count": 250,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -855,6 +855,24 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-jack-o-lantern.webp"
   },
   {
+   "path": "sprites/decor-halloween-lamppost.webp",
+   "name": "decor-halloween-lamppost.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-lamppost.webp"
+  },
+  {
+   "path": "sprites/decor-halloween-lantern.webp",
+   "name": "decor-halloween-lantern.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-lantern.webp"
+  },
+  {
+   "path": "sprites/decor-halloween-pumpkin.webp",
+   "name": "decor-halloween-pumpkin.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-pumpkin.webp"
+  },
+  {
    "path": "sprites/decor-halloween-scarecrow.webp",
    "name": "decor-halloween-scarecrow.webp",
    "category": "sprites",
@@ -865,6 +883,12 @@
    "name": "decor-halloween-spooky-tree.webp",
    "category": "sprites",
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-spooky-tree.webp"
+  },
+  {
+   "path": "sprites/decor-halloween-string-lights.webp",
+   "name": "decor-halloween-string-lights.webp",
+   "category": "sprites",
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-string-lights.webp"
   },
   {
    "path": "sprites/decor-lantern.png",
