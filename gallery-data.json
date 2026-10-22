@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 274,
+ "count": 278,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -21,6 +21,12 @@
    "url": "https://selsocsoc.vercel.app/assets/fishing-art/shell-spiral.webp"
   },
   {
+   "path": "garden-art/crop-berries.webp",
+   "name": "crop-berries.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-berries.webp"
+  },
+  {
    "path": "garden-art/crop-carrot.webp",
    "name": "crop-carrot.webp",
    "category": "garden-art",
@@ -31,6 +37,12 @@
    "name": "crop-corn.webp",
    "category": "garden-art",
    "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-corn.webp"
+  },
+  {
+   "path": "garden-art/crop-herbs.webp",
+   "name": "crop-herbs.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-herbs.webp"
   },
   {
    "path": "garden-art/crop-pumpkin.webp",
@@ -121,6 +133,12 @@
    "name": "bubble-wand.webp",
    "category": "inventory",
    "url": "https://selsocsoc.vercel.app/assets/inventory/items/bubble-wand.webp"
+  },
+  {
+   "path": "inventory/items/cat-collar.webp",
+   "name": "cat-collar.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/cat-collar.webp"
   },
   {
    "path": "inventory/items/cat-food-bowl.webp",
@@ -1609,6 +1627,12 @@
    "name": "wallpaper-daisies-sage-cream.webp",
    "category": "textures",
    "url": "https://selsocsoc.vercel.app/assets/textures/wallpaper-daisies-sage-cream.webp"
+  },
+  {
+   "path": "textures/wallpaper-damask-burgundy.webp",
+   "name": "wallpaper-damask-burgundy.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/wallpaper-damask-burgundy.webp"
   },
   {
    "path": "textures/wallpaper-pinstripe-gold-cream.webp",
