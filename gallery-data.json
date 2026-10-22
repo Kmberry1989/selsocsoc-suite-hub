@@ -843,28 +843,28 @@
    "url": "https://selsocsoc.vercel.app/assets/sprites/decor-cairn.png"
   },
   {
-   "path": "sprites/decor-halloween-bunting.png",
-   "name": "decor-halloween-bunting.png",
+   "path": "sprites/decor-halloween-bunting.webp",
+   "name": "decor-halloween-bunting.webp",
    "category": "sprites",
-   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-bunting.png"
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-bunting.webp"
   },
   {
-   "path": "sprites/decor-halloween-jack-o-lantern.png",
-   "name": "decor-halloween-jack-o-lantern.png",
+   "path": "sprites/decor-halloween-jack-o-lantern.webp",
+   "name": "decor-halloween-jack-o-lantern.webp",
    "category": "sprites",
-   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-jack-o-lantern.png"
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-jack-o-lantern.webp"
   },
   {
-   "path": "sprites/decor-halloween-scarecrow.png",
-   "name": "decor-halloween-scarecrow.png",
+   "path": "sprites/decor-halloween-scarecrow.webp",
+   "name": "decor-halloween-scarecrow.webp",
    "category": "sprites",
-   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-scarecrow.png"
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-scarecrow.webp"
   },
   {
-   "path": "sprites/decor-halloween-spooky-tree.png",
-   "name": "decor-halloween-spooky-tree.png",
+   "path": "sprites/decor-halloween-spooky-tree.webp",
+   "name": "decor-halloween-spooky-tree.webp",
    "category": "sprites",
-   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-spooky-tree.png"
+   "url": "https://selsocsoc.vercel.app/assets/sprites/decor-halloween-spooky-tree.webp"
   },
   {
    "path": "sprites/decor-lantern.png",
