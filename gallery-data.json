@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 290,
+ "count": 294,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -19,6 +19,12 @@
    "name": "shell-spiral.webp",
    "category": "fishing-art",
    "url": "https://selsocsoc.vercel.app/assets/fishing-art/shell-spiral.webp"
+  },
+  {
+   "path": "garden-art/compost-bin.webp",
+   "name": "compost-bin.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/compost-bin.webp"
   },
   {
    "path": "garden-art/crop-berries.webp",
@@ -159,10 +165,22 @@
    "url": "https://selsocsoc.vercel.app/assets/garden-art/tool-wheelbarrow-red.webp"
   },
   {
+   "path": "garden-art/weed-thistle.webp",
+   "name": "weed-thistle.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/weed-thistle.webp"
+  },
+  {
    "path": "inventory/items/barnabys-bargain-tag.webp",
    "name": "barnabys-bargain-tag.webp",
    "category": "inventory",
    "url": "https://selsocsoc.vercel.app/assets/inventory/items/barnabys-bargain-tag.webp"
+  },
+  {
+   "path": "inventory/items/blueprint-scroll.webp",
+   "name": "blueprint-scroll.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/blueprint-scroll.webp"
   },
   {
    "path": "inventory/items/bubble-wand.webp",
@@ -1537,6 +1555,12 @@
    "name": "grass-snow.webp",
    "category": "textures",
    "url": "https://selsocsoc.vercel.app/assets/textures/grass-snow.webp"
+  },
+  {
+   "path": "textures/ground-autumn.webp",
+   "name": "ground-autumn.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/ground-autumn.webp"
   },
   {
    "path": "textures/hardwood-barnwood-gray.webp",
