@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 282,
+ "count": 286,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -37,6 +37,12 @@
    "name": "crop-corn.webp",
    "category": "garden-art",
    "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-corn.webp"
+  },
+  {
+   "path": "garden-art/crop-flowers.webp",
+   "name": "crop-flowers.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-flowers.webp"
   },
   {
    "path": "garden-art/crop-herbs.webp",
@@ -79,6 +85,12 @@
    "name": "seed-packet-corn.webp",
    "category": "garden-art",
    "url": "https://selsocsoc.vercel.app/assets/garden-art/seed-packet-corn.webp"
+  },
+  {
+   "path": "garden-art/seed-packet-flowers.webp",
+   "name": "seed-packet-flowers.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/seed-packet-flowers.webp"
   },
   {
    "path": "garden-art/seed-packet-herbs.webp",
@@ -163,6 +175,12 @@
    "name": "cat-food-bowl.webp",
    "category": "inventory",
    "url": "https://selsocsoc.vercel.app/assets/inventory/items/cat-food-bowl.webp"
+  },
+  {
+   "path": "inventory/items/cat-toy-feather-wand.webp",
+   "name": "cat-toy-feather-wand.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/cat-toy-feather-wand.webp"
   },
   {
    "path": "inventory/items/cat-toy-mouse.webp",
@@ -1525,6 +1543,12 @@
    "name": "material-bark.webp",
    "category": "textures",
    "url": "https://selsocsoc.vercel.app/assets/textures/material-bark.webp"
+  },
+  {
+   "path": "textures/material-brick.webp",
+   "name": "material-brick.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-brick.webp"
   },
   {
    "path": "textures/material-charcoal.webp",
