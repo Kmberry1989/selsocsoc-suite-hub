@@ -1,6 +1,6 @@
 {
  "generatedFrom": "selsocsoc assets/ (png/webp/jpg)",
- "count": 286,
+ "count": 290,
  "items": [
   {
    "path": "fishing-art/shell-conch.webp",
@@ -67,6 +67,18 @@
    "name": "crop-tomato.webp",
    "category": "garden-art",
    "url": "https://selsocsoc.vercel.app/assets/garden-art/crop-tomato.webp"
+  },
+  {
+   "path": "garden-art/garden-gnome.webp",
+   "name": "garden-gnome.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/garden-gnome.webp"
+  },
+  {
+   "path": "garden-art/pinwheel.webp",
+   "name": "pinwheel.webp",
+   "category": "garden-art",
+   "url": "https://selsocsoc.vercel.app/assets/garden-art/pinwheel.webp"
   },
   {
    "path": "garden-art/seed-packet-berries.webp",
@@ -253,6 +265,12 @@
    "name": "starlight-crown.webp",
    "category": "inventory",
    "url": "https://selsocsoc.vercel.app/assets/inventory/items/starlight-crown.webp"
+  },
+  {
+   "path": "inventory/items/tool-watering-can-golden.webp",
+   "name": "tool-watering-can-golden.webp",
+   "category": "inventory",
+   "url": "https://selsocsoc.vercel.app/assets/inventory/items/tool-watering-can-golden.webp"
   },
   {
    "path": "inventory/items/wishing-coin.webp",
@@ -1579,6 +1597,12 @@
    "name": "material-stone-wall.webp",
    "category": "textures",
    "url": "https://selsocsoc.vercel.app/assets/textures/material-stone-wall.webp"
+  },
+  {
+   "path": "textures/material-stucco.webp",
+   "name": "material-stucco.webp",
+   "category": "textures",
+   "url": "https://selsocsoc.vercel.app/assets/textures/material-stucco.webp"
   },
   {
    "path": "textures/material-tile.webp",
